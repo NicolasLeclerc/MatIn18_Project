@@ -19,6 +19,7 @@ my MKS
 
 <p align="center">
 
-<a href="https://mybinder.org/v2/gh/auag92/mks_tutorial.git/master" target="_blank">
+<a href="https://mybinder.org/v2/gh/NicolasLeclerc/MatIn18_Project/master" target="_blank">
 <img src="http://mybinder.org/badge.svg" alt="Binder">
 </p>
+
