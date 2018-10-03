@@ -1,7 +1,7 @@
 # MatIn18_Project
 This repository will contain the python code for my Material informatics class
 <p align="center">
-<img src="https://raw.githubusercontent.com/materialsinnovation/pymks/master/doc/pymks_logo.ico"
+<img src="https://i1.wp.com/francehockey.fr/wp-content/uploads/2018/01/hockey-sur-glace-les-gothiques-vs-chamonix-_-nicolas-leclerc-41-leandre-leber-gazettesports.jpg?fit=630%2C420"
      height="100"
      alt="PyMKS logo"
      class="inline">
