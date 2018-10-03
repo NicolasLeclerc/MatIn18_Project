@@ -11,7 +11,7 @@ This repository will contain the python code for my Material informatics class
 <p align="center">
 <sup>
 <strong>
-MKS Tutorial
+my MKS 
 </strong>
 </sup>
 </p>
