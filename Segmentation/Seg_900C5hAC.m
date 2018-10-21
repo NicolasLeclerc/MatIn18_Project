@@ -1,4 +1,4 @@
-%% Segmentation of 900C 5h Air cooling
+%% Segmentation of 900C 5h Air cooling 
 
 clear; close all
 
